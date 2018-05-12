@@ -1,0 +1,44 @@
+_repo: The-Country-HouseWith-Designs_41781
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41781-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Eastlake, Charles Lock, Sir
+    aliases:
+    - Eastlake, C. L. (Charles Lock), Sir
+    - Eastlake, Sir Charles Lock
+    birthdate: 1793
+    deathdate: 1865
+    gutenberg_agent_id: '41358'
+    url: http://www.gutenberg.org/2009/agents/41358
+    wikipedia: https://en.wikipedia.org/wiki/Charles_Lock_Eastlake
+  - agent_name: Châteauneuf, Alexis de
+    aliases:
+    - De Châteauneuf, Alexis
+    - Chateauneuf, Alexis de
+    birthdate: 1799
+    deathdate: 1853
+    gutenberg_agent_id: '41357'
+    url: http://www.gutenberg.org/2009/agents/41357
+  editor:
+    agent_name: Fox, Mary, Lady
+    gutenberg_agent_id: '41359'
+    url: http://www.gutenberg.org/2009/agents/41359
+description: ''
+gutenberg_issued: '2013-01-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41781'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Architecture -- England -- History -- 19th century'
+- !lcsh 'Architecture, Domestic -- England'
+- !lcsh 'Country homes -- England'
+- !lcc 'NA'
+title: The Country House (with Designs)
+url: http://www.gutenberg.org/ebooks/41781
